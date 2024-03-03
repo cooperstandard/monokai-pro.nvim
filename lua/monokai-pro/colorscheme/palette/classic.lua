@@ -13,6 +13,6 @@ return {
   dimmed1 = "#c0c1b5",
   dimmed2 = "#919288",
   dimmed3 = "#6e7066",
-  dimmed4 = "#57584f",
+  dimmed4 = "#c68585",
   dimmed5 = "#c68585",
 }
